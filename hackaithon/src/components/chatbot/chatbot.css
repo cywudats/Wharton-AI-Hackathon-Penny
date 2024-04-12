@@ -1,0 +1,4 @@
+.chatbot-container {
+    max-height: 1000px; /* Set the maximum height */
+    overflow-y: auto; /* Add vertical scrollbar if content exceeds the maximum height */
+  }
